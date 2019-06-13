@@ -19,7 +19,7 @@ public class SplashActivity extends AppCompatActivity {
                 Intent mainIntent = new Intent(SplashActivity.this,MainActivity.class);
                 SplashActivity.this.startActivity(mainIntent);
                 SplashActivity.this.finish();
-                //Love YOu YAA
+                //Love YOu YAA HOWHOW
             }
         }, SPLASH_DISPLAY_LENGTH);
     }
